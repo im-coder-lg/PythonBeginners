@@ -14,6 +14,6 @@ Want to install or make a Python to Windows exe file?
 This is for them.
 # Executable builder for Windows
 Go to Terminal and run `pip install pyinstaller`.
-Then run `pyinstaller --onefile -w python_filename.py` where python_filename.py is your project filename. It works only on Tkinter or Turtle or PyGame or all GUI types.
+Then run `pyinstaller --onefile -w python_filename.py` where python_filename is your project filename. It works only on Tkinter or Turtle or PyGame or all GUI types.
 # Thanks for reading!
 From coder-lg
