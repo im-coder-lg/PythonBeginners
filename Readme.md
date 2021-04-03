@@ -2,14 +2,14 @@
 <img src="https://www.python.org/static/community_logos/python-logo.png"
      alt="Python"
      style="float: left; margin-right: 10px;" />
+<img src="https://www.python.org/static/community_logos/python-powered-h-140x182.png"
+     alt="Python Powered"
+     style="float: left; margin-right: 10px;" />
      
 Howdy, people!
 This repository is aimed to help the Python beginners here.
 So, Python is "hard as it looks", but trust me, it is damn easy once you get hold of it.
 Every project made on Python is Python Powered.
-<img src="https://www.python.org/static/community_logos/python-powered-h-140x182.png"
-     alt="Python Powered"
-     style="float: left; margin-right: 10px;" />
      
 
 # Resources and custom packages
