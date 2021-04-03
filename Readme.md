@@ -2,7 +2,7 @@
 <img src="https://www.python.org/static/community_logos/python-logo.png"
      alt="Python"
      style="float: left; margin-right: 10px;" />
-<img src="https://www.python.org/static/community_logos/python-powered-h-140x182.png"
+<img src="https://www.python.org/static/community_logos/python-powered-w-100x40.png"
      alt="Python Powered"
      style="float: left; margin-right: 10px;" />
      
