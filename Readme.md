@@ -1,10 +1,12 @@
-# About repository
+
 <img src="https://www.python.org/static/community_logos/python-logo.png"
      alt="Python"
      style="float: left; margin-right: 10px;" />
 <img src="https://www.python.org/static/community_logos/python-powered-w-200x80.png"
      alt="Python Powered"
      style="float: left; margin-right: 10px;" />
+
+# About repository
      
 Howdy, people!
 This repository is aimed to help the Python beginners here.
